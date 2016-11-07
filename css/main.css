@@ -1,0 +1,81 @@
+/* Inserta tu código aqui */
+div{
+    display: inline-block;
+
+    margin: 5px;
+}
+
+h2{
+    font-family: cursive;
+    color: black;
+    font-size: 18px;
+    
+.nueve{ position: absolute;
+    left: 30%;
+    top: 80%;
+    color: white;
+    
+    }
+.diez {
+    position: absolute;
+    left: 29%;
+    top: 80%;
+    color: white;
+}
+.once{
+    position: absolute;
+    left: 29%;
+    top: 80%;
+    color: white;
+}
+    
+.doce {
+    position: absolute;
+    left: 29%;
+    top: 80%;
+    color: white;
+}
+.trece{
+    position: absolute;
+    left: 29%;
+    top: 80%;
+    color: white;
+}
+}
+    
+}
+.quince{
+    position: absolute;
+    color: white;
+    
+}
+
+.uno{
+    position: absolute;
+    left: 1%;
+    top:15%;
+}
+.dos{
+    position: absolute;
+    left: 25%;
+}
+.tres{
+    position: absolute;
+    left: 50%;
+}
+.cuatro{
+    position: absolute;
+    top: 65%;
+    left: 1%;
+}
+.cinco{
+    position: absolute;
+    top: 65%;
+    left: 25%
+    
+}
+.seis{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+}
