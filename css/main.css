@@ -1,81 +1,57 @@
-/* Inserta tu código aqui */
 div{
-    display: inline-block;
-
-    margin: 5px;
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	position: relative;
+	margin: 0px;
+    padding: 0px;
+    padding-top: 0px;
 }
 
-h2{
-    font-family: cursive;
-    color: black;
-    font-size: 18px;
-    
-.nueve{ position: absolute;
-    left: 30%;
-    top: 80%;
-    color: white;
-    
-    }
-.diez {
+img{
     position: absolute;
-    left: 29%;
-    top: 80%;
-    color: white;
-}
-.once{
-    position: absolute;
-    left: 29%;
-    top: 80%;
-    color: white;
-}
-    
-.doce {
-    position: absolute;
-    left: 29%;
-    top: 80%;
-    color: white;
-}
-.trece{
-    position: absolute;
-    left: 29%;
-    top: 80%;
-    color: white;
-}
-}
-    
-}
-.quince{
-    position: absolute;
-    color: white;
-    
-}
+	display: inline-block;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+    opacity: 12px;
 
-.uno{
-    position: absolute;
-    left: 1%;
-    top:15%;
-}
+	}
+
+h1 { 
+    display: block;
+margin: 30px;}
+
+p{position: absolute;
+	z-index: 2;
+color:white;
+bottom: 0;
+right: 0;
+margin: 5px;}
+
+
+.uno {
+    position: absolute;	
+    left: 20px;}
+
 .dos{
-    position: absolute;
-    left: 25%;
-}
-.tres{
-    position: absolute;
-    left: 50%;
-}
+    position: absolute;	
+    left: 250px;}
+
+.tres {
+    position: absolute;	
+    left: 480px;}
+
 .cuatro{
-    position: absolute;
-    top: 65%;
-    left: 1%;
-}
+    position: absolute; 
+    left: 20px;
+    top: 360px;}
 .cinco{
-    position: absolute;
-    top: 65%;
-    left: 25%
-    
-}
+    position: absolute;	
+    left: 250px;
+    top: 360px;}
 .seis{
-    position: absolute;
-    top: 65%;
-    left: 50%;
-}
+    position: absolute; 
+    left: 480px; 
+    top: 360px;}
